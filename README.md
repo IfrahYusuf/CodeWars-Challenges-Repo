@@ -1,9 +1,5 @@
-# My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# Code Wars Challenges  VISIT HERE
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
-![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 
